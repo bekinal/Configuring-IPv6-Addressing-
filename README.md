@@ -1,4 +1,4 @@
-<h1Configuring IPv6 Addressing</h1>
+<h1>Configuring IPv6 Addressing</h1>
 
 <h2>Description</h2>
 Project consists of configuring a router to connect tow LANs using IPv6 addressing. The connections are then verified using ping.
